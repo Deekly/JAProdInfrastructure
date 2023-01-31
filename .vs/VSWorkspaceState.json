@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.vagrant",
+    "\\solution",
+    "\\solution\\3.Docker",
+    "\\solution\\4.DockerSwarm",
+    "\\solution\\4.DockerSwarm\\myapp"
+  ],
+  "SelectedNode": "\\.vagrant\\machines",
+  "PreviewInSolutionExplorer": false
+}
